@@ -2,30 +2,34 @@
 
 ```mermaid
 mindmap
-  Root[:)]
-    Front
-      Vue.js
-      HTML CSS raw
-      Taiwind
-      Telegram
-    Back
-      Python
-        FastApi
-        Django
-        torch
-      Go
-        chi
-        gin
-      C#
-        MAUI
-    Ops
-      docker
-      powershell
-      bash
-      ffmpeg
-    Misc
-      AWS
-      Yandex.Cloud
+  root(("My stack"))
+    front{{"Front"}}
+      vue{{"VUE.js"}}
+      ::icon(fa fa-heart)
+      htmlcss{{"HTML/CSS raw"}}
+      tailwinf{{"TailwingCSS"}}
+      telegram{{"Telegram"}}
+      ::icon(fa fa-heart)
+    back["Back"]
+      python["Python"]
+        fastApi["FastAPI"]
+        django["Django"]
+        torch["torch"]
+      go))"Go        <3"((
+      ::icon(fa fa-heart)
+        chi["chi"]
+        gin["gin"]
+      csharp["C#"]
+        maui["MAUI"]
+    ops["ops"]
+      docker["Docker"]
+      powershell["PowerShell"]
+      bash["bash"]
+      ffmpeg["ffmpeg"]
+    misc["..."]
+      AWS)"AWS"(
+      Yandex.Cloud)"Yandex.Cloud"(
+      ::icon(fa fa-heart)
 ```
 
 - 🔭 I’m currently working on [Yandex Cloud](https://cloud.yandex.ru) library
