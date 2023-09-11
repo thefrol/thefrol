@@ -5,7 +5,7 @@ mindmap
   root(("My stack"))
     front{{"Front"}}
       vue{{"VUE.js"}}
-      ::icon(fa fa-heart)
+      ::icon(fas fa-heart)
       htmlcss{{"HTML/CSS raw"}}
       tailwinf{{"TailwingCSS"}}
       telegram{{"Telegram"}}
@@ -15,7 +15,7 @@ mindmap
         fastApi["FastAPI"]
         django["Django"]
         torch["torch"]
-      go))"Go        <3"((
+      go))"Go"((
       ::icon(fa fa-heart)
         chi["chi"]
         gin["gin"]
