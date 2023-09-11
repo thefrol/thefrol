@@ -5,7 +5,7 @@ mindmap
   root(("My stack"))
     front{{"Front"}}
       vue{{"VUE.js"}}
-      ::icon(fas fa-heart)
+      ::icon(fa-heart)
       htmlcss{{"HTML/CSS raw"}}
       tailwinf{{"TailwingCSS"}}
       telegram{{"Telegram"}}
@@ -16,7 +16,7 @@ mindmap
         django["Django"]
         torch["torch"]
       go))"Go"((
-      ::icon(fa fa-heart)
+      ::icon("fa fa-heart")
         chi["chi"]
         gin["gin"]
       csharp["C#"]
@@ -29,7 +29,7 @@ mindmap
     misc["..."]
       AWS)"AWS"(
       Yandex.Cloud)"Yandex.Cloud"(
-      ::icon(fa fa-heart)
+      ::icon("fa-heart")
 ```
 
 - 🔭 I’m currently working on [Yandex Cloud](https://cloud.yandex.ru) library
