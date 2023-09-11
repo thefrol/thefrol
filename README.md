@@ -1,16 +1,38 @@
-### Hi there 👋
+### Go/python fullstack 👋
 
-<!--
-**thefrol/thefrol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```mermaid
+mindmap
+  Root[:)]
+    Front
+      Vue.js
+      HTML CSS raw
+      Taiwind
+      Telegram
+    Back
+      Python
+        FastApi
+        Django
+        torch
+      Go
+        chi
+        gin
+      C#
+        MAUI
+    Ops
+      docker
+      powershell
+      bash
+      ffmpeg
+    Misc
+      AWS
+      Yandex.Cloud
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Yandex Cloud](https://cloud.yandex.ru) library
+- 🌱 I’m currently learning Go, sometimes html+css
+- 👯 I’m looking to collaborate on go project
+- 🤔 I’m looking for help with rewiewing [minimal lib](https://github.com/thefrol/minimal)
+- 💬 Ask me about jazz
+- 📫 How to reach me: mail@frolenkodima.ru
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: was skipping sports to go to coding lessong, my father would kill me that days
