@@ -4,19 +4,18 @@
 mindmap
   root(("My stack"))
     front{{"Front"}}
-      vue{{"VUE.js"}}
-      ::icon(fa-heart)
+      vue{{"❤️ VUE.js"}}
+        petitevue{{"❤️ Petite Vue"}}
+      alpine{{"Alpine.js"}}
       htmlcss{{"HTML/CSS raw"}}
       tailwinf{{"TailwingCSS"}}
-      telegram{{"Telegram"}}
-      ::icon(fa fa-heart)
+      telegram{{"❤️ Telegram"}}
     back["Back"]
       python["Python"]
         fastApi["FastAPI"]
         django["Django"]
         torch["torch"]
-      go))"Go"((
-      ::icon("fa fa-heart")
+      go))"❤️ Go"((
         chi["chi"]
         gin["gin"]
       csharp["C#"]
@@ -28,8 +27,7 @@ mindmap
       ffmpeg["ffmpeg"]
     misc["..."]
       AWS)"AWS"(
-      Yandex.Cloud)"Yandex.Cloud"(
-      ::icon("fa-heart")
+      Yandex.Cloud)"❤️ Yandex.Cloud"(
 ```
 
 - 🔭 I’m currently working on [Yandex Cloud](https://cloud.yandex.ru) library
