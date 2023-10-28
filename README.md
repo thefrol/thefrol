@@ -38,3 +38,4 @@ mindmap
 - 📫 How to reach me: mail@frolenkodima.ru
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: was skipping sports to go to coding lessong, my father would kill me that days
+- [leetcode](https://leetcode.com/thefrol/)
