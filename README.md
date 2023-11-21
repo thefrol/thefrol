@@ -1,4 +1,4 @@
-### Go/python fullstack 👋
+# Go/python fullstack 👋
 
 ```mermaid
 mindmap
@@ -39,3 +39,6 @@ mindmap
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: was skipping sports to go to coding lessong, my father would kill me that days
 - [leetcode](https://leetcode.com/thefrol/)
+
+![скриншот апплодисментов на литкоде](./assets/aplause-on-2352.png)
+![скриншот апплодисментов по sql](./assets/sql-applause.png)
